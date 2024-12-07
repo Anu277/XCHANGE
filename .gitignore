@@ -1,0 +1,9 @@
+/pybackend/__pycache__
+/frontend/node_modules
+/back/node_modules
+/admin/node_modules
+
+./pybackend/__pycache__
+./frontend/node_modules
+./back/node_modules
+./admin/node_modules

@@ -1,0 +1,1154 @@
+{
+    "pos": 1,
+    "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WHSNYL5/ref=sr_1_1?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSicpMhPc0Yd2p0VSRpyShBtRcqgQON4eqR2YOhQXmOVULS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLks9vZvir_PVc2y6qKWh8RaQAZ1lk7dM7CiA2P5TrKH1O0Rjwj6Qxpk2AsVTEmlp5E.iFOhQVxMLS68vtpRtXaL5_hoQ8Ju0FUL7uljEhss-4U&dib_tag=se&keywords=iqoo&qid=1733075362&sr=8-1",
+    "asin": "B07WHSNYL5",
+    "price": 11498,
+    "title": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+    "rating": 4,
+    "currency": "INR",
+    "is_prime": true,
+    "url_image": "https://m.media-amazon.com/images/I/61WZicN+coL._AC_UY218_.jpg",
+    "best_seller": false,
+    "price_upper": 11498,
+    "is_sponsored": false,
+    "manufacturer": "",
+    "sales_volume": "5K+ bought in past month",
+    "pricing_count": 1,
+    "reviews_count": 2239,
+    "is_amazons_choice": false,
+    "price_strikethrough": 15499,
+    "shipping_information": "FREE delivery Tue, 3 Dec Or fastest delivery Tomorrow, 2 Dec"
+}
+
+
+
+
+{
+    "results": [
+      {
+        "content": {
+          "parse_status_code": 12003
+        },
+        "created_at": "2024-12-01 18:05:09",
+        "updated_at": "2024-12-01 18:05:13",
+        "page": 1,
+        "url": "https://www.amazon.in/dp/B08Y72CH1F?th=1&psc=1",
+        "job_id": "7269048898205808641",
+        "is_render_forced": false,
+        "status_code": 404,
+        "parser_type": ""
+      }
+    ],
+    "job": {
+      "callback_url": null,
+      "client_id": 88378,
+      "context": [
+        {
+          "key": "force_headers",
+          "value": false
+        },
+        {
+          "key": "force_cookies",
+          "value": false
+        },
+        {
+          "key": "hc_policy",
+          "value": true
+        },
+        {
+          "key": "autoselect_variant",
+          "value": true
+        },
+        {
+          "key": "check_empty_geo",
+          "value": null
+        },
+        {
+          "key": "safe_search",
+          "value": true
+        }
+      ],
+      "created_at": "2024-12-01 18:05:09",
+      "domain": "in",
+      "geo_location": null,
+      "id": "7269048898205808641",
+      "limit": 10,
+      "locale": null,
+      "pages": 1,
+      "parse": true,
+      "parser_type": null,
+      "parsing_instructions": null,
+      "browser_instructions": null,
+      "render": null,
+      "url": null,
+      "query": "B08Y72CH1F",
+      "source": "amazon_product",
+      "start_page": 1,
+      "status": "faulted",
+      "storage_type": null,
+      "storage_url": null,
+      "subdomain": "www",
+      "content_encoding": "utf-8",
+      "updated_at": "2024-12-01 18:05:13",
+      "user_agent_type": "desktop",
+      "session_info": null,
+      "statuses": [],
+      "client_notes": null,
+      "_links": [
+        {
+          "rel": "self",
+          "href": "http://data.oxylabs.io/v1/queries/7269048898205808641",
+          "method": "GET"
+        },
+        {
+          "rel": "results",
+          "href": "http://data.oxylabs.io/v1/queries/7269048898205808641/results",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269048898205808641/results/1/content"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-html",
+          "href": "http://data.oxylabs.io/v1/queries/7269048898205808641/results?type=raw",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-html",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269048898205808641/results/1/content?type=raw"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-parsed",
+          "href": "http://data.oxylabs.io/v1/queries/7269048898205808641/results?type=parsed",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-parsed",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269048898205808641/results/1/content?type=parsed"
+          ],
+          "method": "GET"
+        }
+      ]
+    }
+  }
+
+
+
+
+
+
+
+PRODUCT RESPONSE
+  {
+    "results": [
+      {
+        "content": {
+          "url": "https://www.amazon.in/dp/B07WHSNYL5?th=1&psc=1",
+          "asin": "B07WHSNYL5",
+          "page": 1,
+          "brand": "iQOO",
+          "price": 26,
+          "stock": "In stock",
+          "title": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+          "buybox": [
+            [],
+            {
+              "condition": "new"
+            }
+          ],
+          "coupon": "",
+          "images": [
+            "https://m.media-amazon.com/images/I/61WZicN+coL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71580M7qLKL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/618fV8UZ6LL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/617qNscwA-L._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/71k3f4L1bhL._SL1200_.jpg"
+          ],
+          "rating": 4,
+          "reviews": [
+            {
+              "id": "R3AYA3O9NL0H9X",
+              "title": "5.0 out of 5 stars iQOO Z9 Lite 5G Mobile",
+              "author": "Amazon Customer",
+              "rating": 5,
+              "content": "Pros : The iQOO Z9 Lite 5G is a great choice for those looking for a budget-friendly 5G smartphone. It offers solid performance with a smooth user experience, backed by a decent processor and ample RAM for multitasking and casual gaming. The display is vibrant and clear, making it enjoyable for media consumption. With 5G connectivity, it ensures faster internet speeds where available, adding future-proofing for years to come. Battery life is good for day-long usage, though the charging speed could be faster. Overall, it's a well-rounded device for its price range. The iQOO Z9 Lite 5G camera offers impressive performance for its price range. It delivers sharp and vibrant photos in good lighting conditions, with decent color accuracy and detail. While it may not compete with flagship devices in low-light scenarios, it still provides satisfactory results for everyday use, including portraits and wide-angle shots. For users who prioritize camera quality in the budget segment, the iQOO Z9 Lite 5G stands out as one of the better options, offering a well-balanced photography experienceCons: Slow Charging: This is the main downside you pointed out. If the phone supports charging speeds below 18W or lacks fast charging, it can be a bit frustrating, especially if you're used to phones that charge quickly. However, for general use, it should still be enough, but it will take longer to fully charge the battery.Overall, it's a great value for money and offers features typically found in more expensive phones. If you're looking for a capable, affordable 5G device, the iQOO Z9 Lite is definitely worth considering. Read more",
+              "timestamp": "Reviewed in India 15 November 2024",
+              "profile_id": "AHRHE5SM3M7HW3S7LBEY7DODA55A",
+              "is_verified": false,
+              "review_from": "Top reviews from India",
+              "helpful_count": 8
+            },
+            {
+              "id": "R1RW33DPN8PHDB",
+              "title": "4.0 out of 5 stars Solid phone for day to day usage",
+              "author": "Abhinav",
+              "rating": 4,
+              "content": "Phone Looks pretty good especially the brown version. It comes with a pre applied screen protector and good back cover.Display is good considering the price range, Refresh rate hold on all system apps, doesn't feels slow.It lacks animation but thats fine considering the processor. Brightness is adequate.Camera viewfinder looks kind off bad but photoes are fine solid 6/10 daylight captures are good but struggles in low or medium light.Battery is amazing, I tried playing COD mobile for half an hour without any significant drain. (only 5 percent)Call quality and internet speed are smooth and pretty great. It was giving slightly higher speeds than my nothing 2a.No majaor heating issue was there, can't expect dimensity 6300 to heat much.Single speaker is somewhat a downgrade as well as the sound quality isn't so good but according to price its acceptable.If you don't game much or want to capture good enough pictures this phone is just for you. Overall for day to day usage the phone is pretty sweet and just rolls through everything.Please remove all bloatware apps and force stop all the vivo and Iqoo bloatware apps and remove notification for them as well like tips, Vappstore and manager. Read more",
+              "timestamp": "Reviewed in India 27 October 2024",
+              "profile_id": "AF64W2XMKVM2OD4RTXJTPMDE7Q2Q",
+              "is_verified": false,
+              "review_from": "Top reviews from India",
+              "helpful_count": 16
+            },
+            {
+              "id": "R2TON8KWUG2ZQO",
+              "title": "5.0 out of 5 stars Camera cost and battery📈",
+              "author": "vishal",
+              "rating": 5,
+              "content": "The iQOO Z9 Lite 5G offers an attractive package, especially for users seeking solid performance at a budget-friendly price. Here’s a closer look at its key aspects:Design and Display:The Aqua Flow variant looks sleek with its gradient finish, adding a touch of elegance. The phone is lightweight and comfortable to hold, making it easy for one-handed use. Its 6.58-inch Full HD+ display is sharp and vibrant, offering good color reproduction and brightness for media consumption. Though not AMOLED, the display performs well in outdoor lighting conditions and provides smooth scrolling with a 120Hz refresh rate.Performance:Powered by the Dimensity 6300 5G chipset, this device ensures a snappy and fluid user experience. It handles multitasking well, although the 4GB RAM might struggle slightly with heavier apps and games when compared to 6GB or 8GB variants. For regular usage like social media, video streaming, and casual gaming, the phone performs admirably. The inclusion of 5G support is a strong future-proofing move, especially at this price point.Camera:The 50MP Sony AI Camera setup is one of the phone’s strongest features. It takes good-quality pictures in daylight with sharp details and vivid colors. However, low-light performance could be better, as images tend to get noisy in dim environments. The AI optimizations, such as scene recognition, enhance the photography experience, making it easy to capture decent shots with minimal effort. The front camera is decent for selfies and video calls, though not exceptional.Battery and Charging:The phone packs a 5000mAh battery, which easily lasts a full day of moderate use. The charger in the box is a nice touch, offering fast charging support that gets the phone charged in under two hours. Battery optimization is good, ensuring you won’t run out of juice during regular day-to-day tasks.Storage and Software:With 128GB of storage, there’s ample room for apps, media, and files, and the phone supports microSD expansion if needed. The software experience is clean and customizable with iQOO’s Funtouch OS, which runs smoothly on Android. The UI is user-friendly, though there are some pre-installed apps that may not be necessary, but they can be uninstalled.Verdict:The iQOO Z9 Lite 5G is a competitive mid-range smartphone with solid performance, 5G support, a reliable camera, and good battery life. If you’re looking for a budget-friendly 5G phone with a stylish design, it’s a solid pick, but the 4 Read more",
+              "timestamp": "Reviewed in India 28 September 2024",
+              "profile_id": "AGOFG3T2HYHLDLSGYXTRFOQAE47A",
+              "is_verified": false,
+              "review_from": "Top reviews from India",
+              "helpful_count": 41
+            },
+            {
+              "id": "RX31FQF2E4HNC",
+              "title": "4.0 out of 5 stars Budget phone with decent features",
+              "author": "ADS",
+              "rating": 4,
+              "content": "Decent mobile phone with good features, the UI could be more responsive but does the job. The battery looks decent for regular use. The display is very basic, could have provided amoled one, the clarity is not that great. The Dual sim is not so clear how it works, there is a single slot for second sim + SD card, so not sure how it would work. If you are looking for less than 10K mobile with decent features then go for it if you are ok with basic display clarity. Read more",
+              "timestamp": "Reviewed in India 10 October 2024",
+              "profile_id": "AGMULR4HZEUQICTPBJJR4WGXGXUQ",
+              "is_verified": false,
+              "review_from": "Top reviews from India",
+              "helpful_count": 1
+            },
+            {
+              "id": "R31NNK5HLM7TJV",
+              "title": "3.0 out of 5 stars \"Good phone, but cheap-quality speakers\"",
+              "author": "Devendra Singh",
+              "rating": 3,
+              "content": "The phone performs well for its price, but the call and loudspeaker quality are poor. The audio sounds like an old, basic button phone during calls or when using the speaker. It impacts call clarity and media playback. A decent budget option, but not for those who prioritize audio quality. Read more",
+              "timestamp": "Reviewed in India 14 November 2024",
+              "profile_id": "AH6BPJVGG36MYEKXGIVNQHHKKJKA",
+              "is_verified": false,
+              "review_from": "Top reviews from India",
+              "helpful_count": 1
+            }
+          ],
+          "category": [
+            {
+              "ladder": [
+                {
+                  "url": "/electronics/b/ref=dp_bc_aui_C_1?ie=UTF8&node=976419031",
+                  "name": "Electronics"
+                },
+                {
+                  "url": "/mobile-phones/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1389401031",
+                  "name": "Mobiles & Accessories"
+                },
+                {
+                  "url": "/smartphones-basic-mobiles/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1389432031",
+                  "name": "Smartphones & Basic Mobiles"
+                },
+                {
+                  "url": "/Smartphones/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1805560031",
+                  "name": "Smartphones"
+                }
+              ]
+            }
+          ],
+          "currency": "INR",
+          "delivery": [
+            {
+              "date": {
+                "by": "Tuesday, 3 December",
+                "from": null
+              },
+              "type": "FREE delivery"
+            }
+          ],
+          "_warnings": [
+            "Could not parse description."
+          ],
+          "page_type": "Product",
+          "price_sns": 0,
+          "variation": [
+            {
+              "asin": "B07WHQS4LB",
+              "selected": false,
+              "dimensions": {
+                "Size": "6GB RAM, 128GB Storage",
+                "Colour": "Mocha Brown"
+              },
+              "tooltip_image": "https://m.media-amazon.com/images/I/41hmUyFtwdL._SS36_.jpg"
+            },
+            {
+              "asin": "B07WHSNYL5",
+              "selected": true,
+              "dimensions": {
+                "Size": "6GB RAM, 128GB Storage",
+                "Colour": "Aqua Flow"
+              },
+              "tooltip_image": "https://m.media-amazon.com/images/I/410W-fBOP2L._SS36_.jpg"
+            },
+            {
+              "asin": "B07WJTB99S",
+              "selected": false,
+              "dimensions": {
+                "Size": "4GB RAM, 128GB Storage",
+                "Colour": "Aqua Flow"
+              }
+            },
+            {
+              "asin": "B07WFPLL2H",
+              "selected": false,
+              "dimensions": {
+                "Size": "4GB RAM, 128GB Storage",
+                "Colour": "Mocha Brown"
+              }
+            }
+          ],
+          "has_videos": true,
+          "sales_rank": [
+            {
+              "rank": 40,
+              "ladder": [
+                {
+                  "url": "/gp/bestsellers/electronics/ref=pd_zg_ts_electronics",
+                  "name": "Electronics "
+                }
+              ]
+            },
+            {
+              "rank": 15,
+              "ladder": [
+                {
+                  "url": "/gp/bestsellers/electronics/1805560031/ref=pd_zg_hrsr_electronics",
+                  "name": "Smartphones"
+                }
+              ]
+            }
+          ],
+          "top_review": "Pros : The iQOO Z9 Lite 5G is a great choice for those looking for a budget-friendly 5G smartphone. It offers solid performance with a smooth user experience, backed by a decent processor and ample RAM for multitasking and casual gaming. The display is vibrant and clear, making it enjoyable for media consumption. With 5G connectivity, it ensures faster internet speeds where available, adding future-proofing for years to come. Battery life is good for day-long usage, though the charging speed could be faster. Overall, it's a well-rounded device for its price range. The iQOO Z9 Lite 5G camera offers impressive performance for its price range. It delivers sharp and vibrant photos in good lighting conditions, with decent color accuracy and detail. While it may not compete with flagship devices in low-light scenarios, it still provides satisfactory results for everyday use, including portraits and wide-angle shots. For users who prioritize camera quality in the budget segment, the iQOO Z9 Lite 5G stands out as one of the better options, offering a well-balanced photography experienceCons: Slow Charging: This is the main downside you pointed out. If the phone supports charging speeds below 18W or lacks fast charging, it can be a bit frustrating, especially if you're used to phones that charge quickly. However, for general use, it should still be enough, but it will take longer to fully charge the battery.Overall, it's a great value for money and offers features typically found in more expensive phones. If you're looking for a capable, affordable 5G device, the iQOO Z9 Lite is definitely worth considering.\n  \nRead more",
+          "asin_in_url": "B07WHSNYL5",
+          "description": "",
+          "parent_asin": "B0D83XR548",
+          "price_upper": 11498,
+          "pricing_str": "",
+          "pricing_url": "https://www.amazon.in/gp/offer-listing/B07WHSNYL5?startIndex=0",
+          "manufacturer": "iQOO",
+          "price_buybox": -1,
+          "product_name": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+          "sales_volume": "5K+ bought in past month",
+          "bullet_points": "PROCESSOR : Powered by MediaTek Dimensity 6300 5G with 414,564 AnTuTu Score, 2.4Hz Clock Speed and Octa-core CPU architecture which gives you effortless multi-tasking experience.\nSMOOTH 5G EXPERIENCE : Experience the future of lightning-fast speed and seamless connectivity, allowing you to enjoy superfast 5G video streaming, uninterrupted video calls, and enhanced connectivity. Z9 Lite also has VonR Support & Dual Sim 5G capability.\nCAMERA: Capture sharp and vibrant images with the 50MP Sony AI Camera, ensuring that every vivid and radiant moment is perfectly framed within your camera with features like AI Photo Enhancer, Night mode & Unmatched portrait filter.\nSAFE & SOUND : It is IP64 rated - Dust and Water Resistance. Dust finds nowhere to get in, and liquid splashes cause no damage to the device from any direction, allowing you to keep exploring with no worries about the environment.\nBATTERY: iQOO Z9 lite is equipped with large 5000mAh Battery which ensures lasting enjoyment throughout your day. It also comes with in the box charger.",
+          "price_initial": 15499,
+          "pricing_count": 1,
+          "reviews_count": 2239,
+          "sns_discounts": [],
+          "developer_info": [],
+          "price_shipping": 0,
+          "product_details": {
+            "os": "‎Funtouch OS 14 Based On Android 14",
+            "gps": "‎True",
+            "ram": "‎6 GB",
+            "asin": "B07WHSNYL5",
+            "colour": "‎Aqua Flow",
+            "packer": "vivo Mobile India Pvt Ltd, Plot No 08, Sector 24, Yamuna Expressway Area, Gautam Buddha Nagar, Uttar Pradesh, 201310",
+            "importer": "vivo Mobile India Pvt Ltd, Plot No 08, Sector 24, Yamuna Expressway Area, Gautam Buddha Nagar, Uttar Pradesh, 201310",
+            "batteries": "‎1 Lithium Ion batteries required. (included)",
+            "audio_jack": "‎3.5 mm",
+            "resolution": "‎1612 x 720",
+            "form_factor": "‎Bar",
+            "item_weight": "‎185 g",
+            "generic_name": "Smartphone",
+            "manufacturer": "vivo Mobile India Pvt Ltd, vivo Mobile India Pvt Ltd, Plot No 08, Sector 24, Yamuna Expressway Area, Gautam Buddha Nagar, Uttar Pradesh, 201310",
+            "net_quantity": "1 Count",
+            "customer_reviews": "4.0 4.0 out of 5 stars 2,239 ratings 4.0 out of 5 stars",
+            "special_features": "‎Dual_Sim, Camera",
+            "whats_in_the_box": "‎Cell phone, Charger, USB cable, Eject tool, Quick start guide, Warranty card, Phone case",
+            "best_sellers_rank": "#40 in Electronics (See Top 100 in Electronics) #15 in Smartphones",
+            "country_of_origin": "‎India",
+            "item_model_number": "‎I2306",
+            "product_dimensions": "‎16.4 x 7.6 x 0.8 cm; 185 g",
+            "battery_power_rating": "‎5000",
+            "date_first_available": "18 July 2024",
+            "item_dimensions_lxwxh": "16.4 x 7.6 x 0.8 Centimeters",
+            "other_camera_features": "‎Rear",
+            "other_display_features": "‎Wireless",
+            "device_interface_primary": "‎Touchscreen",
+            "connectivity_technologies": "‎Wi-Fi, Bluetooth 5.4, USB",
+            "wireless_communication_technologies": "‎Cellular"
+          },
+          "featured_merchant": {
+            "link": "/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AQUYM0O99MFUT&asin=B07WHSNYL5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+            "name": "Darshita Etel",
+            "seller_id": "AQUYM0O99MFUT",
+            "shipped_from": "Amazon",
+            "is_amazon_fulfilled": true
+          },
+          "is_prime_eligible": false,
+          "parse_status_code": 12005,
+          "product_dimensions": "‎16.4 x 7.6 x 0.8 cm; 185 g",
+          "discount_percentage": 26,
+          "price_strikethrough": 15499,
+          "answered_questions_count": 0,
+          "rating_stars_distribution": [
+            {
+              "rating": 5,
+              "percentage": 50
+            },
+            {
+              "rating": 4,
+              "percentage": 26
+            },
+            {
+              "rating": 3,
+              "percentage": 9
+            },
+            {
+              "rating": 2,
+              "percentage": 4
+            },
+            {
+              "rating": 1,
+              "percentage": 11
+            }
+          ]
+        },
+        "created_at": "2024-12-01 18:10:25",
+        "updated_at": "2024-12-01 18:10:31",
+        "page": 1,
+        "url": "https://www.amazon.in/dp/B07WHSNYL5?th=1&psc=1",
+        "job_id": "7269050222863478785",
+        "is_render_forced": false,
+        "status_code": 200,
+        "parser_type": ""
+      }
+    ],
+    "job": {
+      "callback_url": null,
+      "client_id": 88378,
+      "context": [
+        {
+          "key": "force_headers",
+          "value": false
+        },
+        {
+          "key": "force_cookies",
+          "value": false
+        },
+        {
+          "key": "hc_policy",
+          "value": true
+        },
+        {
+          "key": "autoselect_variant",
+          "value": true
+        },
+        {
+          "key": "check_empty_geo",
+          "value": null
+        },
+        {
+          "key": "safe_search",
+          "value": true
+        }
+      ],
+      "created_at": "2024-12-01 18:10:25",
+      "domain": "in",
+      "geo_location": null,
+      "id": "7269050222863478785",
+      "limit": 10,
+      "locale": null,
+      "pages": 1,
+      "parse": true,
+      "parser_type": null,
+      "parsing_instructions": null,
+      "browser_instructions": null,
+      "render": null,
+      "url": null,
+      "query": "B07WHSNYL5",
+      "source": "amazon_product",
+      "start_page": 1,
+      "status": "done",
+      "storage_type": null,
+      "storage_url": null,
+      "subdomain": "www",
+      "content_encoding": "utf-8",
+      "updated_at": "2024-12-01 18:10:31",
+      "user_agent_type": "desktop",
+      "session_info": null,
+      "statuses": [],
+      "client_notes": null,
+      "_links": [
+        {
+          "rel": "self",
+          "href": "http://data.oxylabs.io/v1/queries/7269050222863478785",
+          "method": "GET"
+        },
+        {
+          "rel": "results",
+          "href": "http://data.oxylabs.io/v1/queries/7269050222863478785/results",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269050222863478785/results/1/content"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-html",
+          "href": "http://data.oxylabs.io/v1/queries/7269050222863478785/results?type=raw",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-html",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269050222863478785/results/1/content?type=raw"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-parsed",
+          "href": "http://data.oxylabs.io/v1/queries/7269050222863478785/results?type=parsed",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-parsed",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269050222863478785/results/1/content?type=parsed"
+          ],
+          "method": "GET"
+        }
+      ]
+    }
+  }
+
+
+
+
+
+
+
+
+
+SEARCH RESPONSE
+
+  {
+    "results": [
+      {
+        "content": {
+          "url": "https://www.amazon.in/s?k=iqoo&page=1",
+          "page": 1,
+          "query": "iqoo",
+          "results": {
+            "paid": [
+              {
+                "pos": 1,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfYXRmOjMwMDI2MTEwMDUyNTQzMjo6MDo6&url=/Samsung-Thunder-Storage-Corning-Gorilla/dp/B0D813539C/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "asin": "B0D813539C",
+                "price": 17499,
+                "title": "Samsung Galaxy M35 5G (Thunder Grey,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",  
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/8189mzscM6L._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 17499,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "400+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 5175,
+                "is_amazons_choice": false,
+                "price_strikethrough": 25999,
+                "shipping_information": "FREE delivery Fri, 6 Dec"
+              },
+              {
+                "pos": 2,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfYXRmOjMwMDM3ODcwOTIxMDMzMjo6MDo6&url=/OnePlus-Oasis-Green-128GB-Storage/dp/B0D7VH5RL6/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+                "asin": "B0D7VH5RL6",
+                "price": 29999,
+                "title": "OnePlus Nord 4 5G (Oasis Green, 8GB RAM, 128GB Storage)",
+                "rating": 4.2,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 29999,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "500+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1694,
+                "is_amazons_choice": false,
+                "shipping_information": "FREE delivery Thu, 5 Dec"
+              },
+              {
+                "pos": 11,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfbXRmOjMwMDM3ODcwOTIwOTYzMjo6MDo6&url=/OnePlus-Nord-Lite-128GB-Storage/dp/B0D5YFZ946/ref=sr_1_11_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1",
+                "asin": "B0D5YFZ946",
+                "price": 19999,
+                "title": "OnePlus Nord CE4 Lite 5G (Mega Blue, 8GB RAM, 128GB Storage)",
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/5155PFA2N+L._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 19999,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "4K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 3411,
+                "is_amazons_choice": false,
+                "price_strikethrough": 20999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 12,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfbXRmOjMwMDM3ODcwOTIwOTkzMjo6MDo6&url=/Oneplus-Celadon-Marble-256GB-Storage/dp/B0CX59SD6C/ref=sr_1_12_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1",
+                "asin": "B0CX59SD6C",
+                "price": 26999,
+                "title": "Oneplus Nord CE4 (Celadon Marble, 8GB RAM, 256GB Storage)",
+                "rating": 4.2,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61nxQ62qglL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 26999,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "2K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 6226,
+                "is_amazons_choice": false,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 21,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfYnRmOjMwMDM3ODcyMTQxMjgzMjo6MDo6&url=/Redmi-Orchid-Largest-Display-Segment/dp/B0D78X5CMJ/ref=sr_1_21_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-21-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1",
+                "asin": "B0D78X5CMJ",
+                "price": 14499,
+                "title": "Redmi 13 5G, Orchid Pink, 8GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+                "rating": 3.9,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/81Q9jpYOFdL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 14499,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "500+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2395,
+                "is_amazons_choice": false,
+                "price_strikethrough": 19999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 22,
+                "url": "/sspa/click?ie=UTF8&spc=MTo0MjAyMzQ1MDkxMDY1OTMzOjE3MzMwNzk3NTc6c3BfYnRmOjIwMTE2MjE3NjQzNjk4OjowOjo&url=/Samsung-Galaxy-Ultra-Phantom-Storage/dp/B0BT9FDZ8N/ref=sr_1_22_sspa?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1",
+                "asin": "B0BT9FDZ8N",
+                "price": 74990,
+                "title": "Samsung Galaxy S23 Ultra 5G AI Smartphone (Phantom Black, 12GB, 256GB Storage)",
+                "rating": 4.5,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 74990,
+                "is_sponsored": true,
+                "manufacturer": "",
+                "sales_volume": "3K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2669,
+                "is_amazons_choice": false,
+                "price_strikethrough": 149999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              }
+            ],
+            "organic": [
+              {
+                "pos": 3,
+                "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WHSNYL5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-3",
+                "asin": "B07WHSNYL5",
+                "price": 11498,
+                "title": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+                "rating": 4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61WZicN+coL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 11498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2239,
+                "is_amazons_choice": false,
+                "price_strikethrough": 15499,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 4,
+                "url": "/iQOO-Tornado-Storage-Snapdragon-FlashCharge/dp/B07WHQHNZC/ref=sr_1_4?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-4",
+                "asin": "B07WHQHNZC",
+                "price": 13999,
+                "title": "iQOO Z9x 5G (Tornado Green, 6GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 13999,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 4797,
+                "is_amazons_choice": false,
+                "price_strikethrough": 18999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 5,
+                "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WHQS4LB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-5",
+                "asin": "B07WHQS4LB",
+                "price": 11498,
+                "title": "iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+                "rating": 4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/619VJYWIbXL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 11498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2239,
+                "is_amazons_choice": true,
+                "price_strikethrough": 15499,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 6,
+                "url": "/iQOO-Storage-Ultra-Thin-Dimesity-Processor/dp/B07WFPL9PB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-6",
+                "asin": "B07WFPL9PB",
+                "price": 19998,
+                "title": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+                "rating": 4.3,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61nO5YRaAxL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 19998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1953,
+                "is_amazons_choice": false,
+                "price_strikethrough": 25999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 7,
+                "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WJTB99S/ref=sr_1_7?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-7",
+                "asin": "B07WJTB99S",
+                "price": 10498,
+                "title": "iQOO Z9 Lite 5G (Aqua Flow, 4GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+                "rating": 4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61WZicN+coL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 10498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2239,
+                "is_amazons_choice": false,
+                "price_strikethrough": 14499,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 8,
+                "url": "/iQOO-Storage-Snapdragon-6000mAh-FlashCharge/dp/B07WHRHBLH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-8",
+                "asin": "B07WHRHBLH",
+                "price": 13999,
+                "title": "iQOO Z9x 5G (Storm Grey, 6GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61sY8BGOyEL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 13999,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 4797,
+                "is_amazons_choice": false,
+                "price_strikethrough": 18999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 9,
+                "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WFPLL2H/ref=sr_1_9?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-9",
+                "asin": "B07WFPLL2H",
+                "price": 10498,
+                "title": "iQOO Z9 Lite 5G (Mocha Brown, 4GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+                "rating": 4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/619VJYWIbXL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 10498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "4K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2239,
+                "is_amazons_choice": false,
+                "price_strikethrough": 14499,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 10,
+                "url": "/iQOO-Storage-Ultra-Thin-Dimesity-Processor/dp/B07WHS35V6/ref=sr_1_10?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-10",
+                "asin": "B07WHS35V6",
+                "price": 21998,
+                "title": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 256GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+                "rating": 4.3,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61nO5YRaAxL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 21998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "3K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1953,
+                "is_amazons_choice": false,
+                "price_strikethrough": 27999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 13,
+                "url": "/iQOO-Titanium-Ultra-Thin-Dimesity-Processor/dp/B07WHRZRD7/ref=sr_1_13?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-13",
+                "asin": "B07WHRZRD7",
+                "price": 21998,
+                "title": "iQOO Z9s 5G (Titanium Matte, 8GB RAM, 256GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+                "rating": 4.3,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61BxKJrnbdL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 21998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "1K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1953,
+                "is_amazons_choice": false,
+                "price_strikethrough": 27999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 14,
+                "url": "/iQOO-Storage-Snapdragon-Processor-Brightness/dp/B07WHRXTJV/ref=sr_1_14?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-14",
+                "asin": "B07WHRXTJV",
+                "price": 26998,
+                "title": "iQOO Z9S Pro 5G (Luxe Marble, 8Gb Ram, 256Gb Storage) | Snapdragon 7 Gen 3 Processor | 120 Hz Curved Amoled Display with 4500 Nits Local Peak Brightness | 5500 Mah Battery | Ai Erase, White",
+                "rating": 4.4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61SnaL4+EFL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 26998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "4K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1472,
+                "is_amazons_choice": false,
+                "price_strikethrough": 31999,
+                "shipping_information": "FREE delivery Fri, 6 Dec"
+              },
+              {
+                "pos": 15,
+                "url": "/iQOO-Brushed-Dimensity-Processor-Brightness/dp/B07WGPBNTC/ref=sr_1_15?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-15",
+                "asin": "B07WGPBNTC",
+                "price": 18498,
+                "title": "iQOO Z9 5G (Brushed Green, 8GB RAM, 128GB Storage) | Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box",
+                "rating": 4.2,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61pt59LW-lL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 18498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "2K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 5432,
+                "is_amazons_choice": false,
+                "price_strikethrough": 24999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 16,
+                "url": "/iQOO-Storage-Snapdragon-Processor-Brightness/dp/B07WHR9ZJ9/ref=sr_1_16?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-16",
+                "asin": "B07WHR9ZJ9",
+                "price": 24998,
+                "title": "iQOO Z9s Pro 5G (Luxe Marble, 8Gb Ram, 128Gb Storage) | Snapdragon 7 Gen 3 Processor |120 Hz Curved Amoled Display with 4500 Nits Local Peak Brightness | 5500 Mah Battery | Ai Erase, White",
+                "rating": 4.4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61SnaL4+EFL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 24998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "3K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1472,
+                "is_amazons_choice": false,
+                "price_strikethrough": 29999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 17,
+                "url": "/iQOO-Tornado-Storage-Snapdragon-FlashCharge/dp/B07WHS4MC4/ref=sr_1_17?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-17",
+                "asin": "B07WHS4MC4",
+                "price": 15499,
+                "title": "iQOO Z9x 5G (Tornado Green, 8GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 15499,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "2K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 4797,
+                "is_amazons_choice": false,
+                "price_strikethrough": 19999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 18,
+                "url": "/iQOO-Tornado-Storage-Snapdragon-FlashCharge/dp/B07WDKKJ45/ref=sr_1_18?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-18",
+                "asin": "B07WDKKJ45",
+                "price": 12499,
+                "title": "iQOO Z9x 5G (Tornado Green, 4GB RAM, 128GB Storage) | Snapdragon 6 Gen 1 with 560k+ AnTuTu Score | 6000mAh Battery with 7.99mm Slim Design | 44W FlashCharge",
+                "rating": 4.1,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 12499,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "2K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 4797,
+                "is_amazons_choice": false,
+                "price_strikethrough": 17999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              },
+              {
+                "pos": 19,
+                "url": "/iQOO-Storage-Ultra-Thin-Dimesity-Processor/dp/B07WFPM2WQ/ref=sr_1_19?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-19",
+                "asin": "B07WFPM2WQ",
+                "price": 23998,
+                "title": "iQOO Z9s 5G (Onyx Green, 12GB RAM, 256GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+                "rating": 4.3,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/61nO5YRaAxL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 23998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "3K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1953,
+                "is_amazons_choice": false,
+                "price_strikethrough": 29999,
+                "shipping_information": "FREE delivery Sat, 7 Dec"
+              },
+              {
+                "pos": 20,
+                "url": "/iQOO-Flamboyant-Snapdragon-Processor-Brightness/dp/B07WHPQCTC/ref=sr_1_20?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-20",
+                "asin": "B07WHPQCTC",
+                "price": 24998,
+                "title": "iQOO Z9s Pro 5G (Flamboyant Orange, 8GB RAM, 128GB Storage) | Snapdragon 7 Gen 3 Processor | 120 Hz Curved AMOLED Display with 4500 nits Local Peak Brightness | 5500 mAh Battery | AI Erase",
+                "rating": 4.4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/711ZTkL0l8L._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 24998,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "1K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 1472,
+                "is_amazons_choice": false,
+                "price_strikethrough": 29999,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              }
+            ],
+            "suggested": [],
+            "amazons_choices": [
+              {
+                "pos": 5,
+                "url": "/iQOO-Storage-Dimensity-Camera-Charger/dp/B07WHQS4LB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.GnltgpOARH1jXrIWO9crSpI3UC-ag7KcjQZoanGspvU0PVzp1kWTKXKpJocsz7-eLS6A67VWj9RMf9t246fF0Vezl8zPwXWSWsa3_kjvFyYEPloYBmFLDjIfDEcHrEZKfpGwaPm8oY0JOrG3bNhLG0WkPZo9DC7CRx4GTCfTfLkrnS3bA-BHtbfVmkxkWGp0BIpbGyC8xwhRm2WAem9NLgTdWgQCuCz3O3giZY9waFw.PJYnAsy5WRni_3eEZOWxfPNfrxvbamyerxIxOJmIvSM&dib_tag=se&keywords=iqoo&qid=1733079757&sr=8-5",
+                "asin": "B07WHQS4LB",
+                "price": 11498,
+                "title": "iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+                "rating": 4,
+                "currency": "INR",
+                "is_prime": true,
+                "url_image": "https://m.media-amazon.com/images/I/619VJYWIbXL._AC_UY218_.jpg",
+                "best_seller": false,
+                "price_upper": 11498,
+                "is_sponsored": false,
+                "manufacturer": "",
+                "sales_volume": "5K+ bought in past month",
+                "pricing_count": 1,
+                "reviews_count": 2239,
+                "is_amazons_choice": true,
+                "price_strikethrough": 15499,
+                "shipping_information": "FREE delivery Wed, 4 Dec Or fastest delivery Today"
+              }
+            ]
+          },
+          "last_visible_page": 20,
+          "parse_status_code": 12000,
+          "total_results_count": 60000
+        },
+        "created_at": "2024-12-01 19:02:36",
+        "updated_at": "2024-12-01 19:02:38",
+        "page": 1,
+        "url": "https://www.amazon.in/s?k=iqoo&page=1",
+        "job_id": "7269063353769682947",
+        "is_render_forced": false,
+        "status_code": 200,
+        "parser_type": ""
+      }
+    ],
+    "job": {
+      "callback_url": null,
+      "client_id": 88378,
+      "context": [
+        {
+          "key": "force_headers",
+          "value": false
+        },
+        {
+          "key": "force_cookies",
+          "value": false
+        },
+        {
+          "key": "hc_policy",
+          "value": true
+        },
+        {
+          "key": "category_id",
+          "value": null
+        },
+        {
+          "key": "merchant_id",
+          "value": null
+        },
+        {
+          "key": "check_empty_geo",
+          "value": null
+        },
+        {
+          "key": "safe_search",
+          "value": true
+        }
+      ],
+      "created_at": "2024-12-01 19:02:36",
+      "domain": "in",
+      "geo_location": "500001",
+      "id": "7269063353769682947",
+      "limit": 10,
+      "locale": null,
+      "pages": 1,
+      "parse": true,
+      "parser_type": null,
+      "parsing_instructions": null,
+      "browser_instructions": null,
+      "render": null,
+      "url": null,
+      "query": "iqoo",
+      "source": "amazon_search",
+      "start_page": 1,
+      "status": "done",
+      "storage_type": null,
+      "storage_url": null,
+      "subdomain": "www",
+      "content_encoding": "utf-8",
+      "updated_at": "2024-12-01 19:02:38",
+      "user_agent_type": "desktop",
+      "session_info": null,
+      "statuses": [],
+      "client_notes": null,
+      "_links": [
+        {
+          "rel": "self",
+          "href": "http://data.oxylabs.io/v1/queries/7269063353769682947",
+          "method": "GET"
+        },
+        {
+          "rel": "results",
+          "href": "http://data.oxylabs.io/v1/queries/7269063353769682947/results",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269063353769682947/results/1/content"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-html",
+          "href": "http://data.oxylabs.io/v1/queries/7269063353769682947/results?type=raw",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-html",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269063353769682947/results/1/content?type=raw"
+          ],
+          "method": "GET"
+        },
+        {
+          "rel": "results-parsed",
+          "href": "http://data.oxylabs.io/v1/queries/7269063353769682947/results?type=parsed",
+          "method": "GET"
+        },
+        {
+          "rel": "results-content-parsed",
+          "href_list": [
+            "http://data.oxylabs.io/v1/queries/7269063353769682947/results/1/content?type=parsed"
+          ],
+          "method": "GET"
+        }
+      ]
+    }
+  }
+  

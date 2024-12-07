@@ -1,0 +1,7 @@
+fastapi 
+uvicorn 
+langchain
+langchain_google_genai
+python-dotenv
+
+# uvicorn main:app --reload
