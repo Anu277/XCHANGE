@@ -13,11 +13,23 @@ gemini_api_key = os.getenv("GOOGLE_API_KEY")
 # Initialize FastAPI app
 app = FastAPI()
 
+# def extract_hsn_code(response_text):
+#     match = re.search(r"\b\d{4}(?:\.\d{2})?(?:\.\d{2})?\b", response_text)  # Matches HSN code (4-8 digits)
+#     if match:
+#         return match.group(0)
+#     return "not_found"
 def extract_hsn_code(response_text):
-    match = re.search(r"\b\d{4}(?:\.\d{2})?(?:\.\d{2})?\b", response_text)  # Matches HSN code (4-8 digits)
-    if match:
-        return match.group(0)
-    return "not_found"
+    # Split the text into words based on spaces
+    words = response_text.split()
+    
+    # Loop through each word in the response text
+    for word in words:
+        # Check if the word contains a sequence of digits and its length is at least 4
+        if word.isdigit() and len(word) >= 4:
+            return word  # Return the first matching sequence
+    
+    return "not_found"  # Return "not_found" if no valid HSN code is found
+
 
 def get_query_chain(query):
     print("Query:", query)
