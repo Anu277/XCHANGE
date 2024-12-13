@@ -19,15 +19,17 @@ app = FastAPI()
 #         return match.group(0)
 #     return "not_found"
 def extract_hsn_code(response_text):
-    # Split the text into words based on spaces
-    words = response_text.split()
+    # Use a regular expression to find sequences of digits with optional decimal points
+    match = re.search(r'\b\d+(\.\d+)*\b', response_text)
     
-    # Loop through each word in the response text
-    for word in words:
-        # Check if the word contains a sequence of digits and its length is at least 4
-        if word.isdigit() and len(word) >= 4:
-            return word  # Return the first matching sequence
-    
+    if match:
+        # Extract the matched sequence
+        hsn_code = match.group(0)
+        
+        # Check if the code contains at least 4 digits
+        if len(hsn_code.replace('.', '')) >= 4:
+            return hsn_code
+
     return "not_found"  # Return "not_found" if no valid HSN code is found
 
 
